@@ -9,4 +9,6 @@ This is a protocol to sort a data financial excel and to rend plots. It is done 
 ### Anaconda installation
 Link : https://www.anaconda.com/products/distribution
 Anaconda is an open-source distribution of the Python and R programming languages for data science that aims to simplify package management and deployment.
-<img src="/20170302_155646.jpg" alt="My cool logo"/>
+<br />
+<br />
+<img src="/20170302_155646.jpg" alt="My cool logo" height="210"/>
