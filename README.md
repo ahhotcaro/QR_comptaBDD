@@ -49,4 +49,6 @@ Once "Sales record successfully exported into Excel File" open the excel you've 
 ### Plots
 Now you can draw graphs, depending on the data you want to visualize. You have an example of how to select data and plot.
 
-### Enjoy
+### Links that might help you
+Pandas Installation instructions : https://pandas.pydata.org/getting_started.html <br />
+Getting started with pandas : https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
