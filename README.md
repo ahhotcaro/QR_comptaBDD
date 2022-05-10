@@ -2,8 +2,8 @@
 This is a protocol to sort a data financial excel. It is done with Python, in Anaconda, using the Pandas library. 
 
 ## Set up the environment
-1. You have to install Anaconda environment. You can keep the default choices.
-2. Then, you have to install Jupyter Lab.
+1. You have to install Anaconda environment. You can keep the default choices. It can take some time to install. Open Anaconda navigator.
+2. Then, you have to launch jupyter notebook. Open QR_BDD_compta. 
 3. When it's done, just go to my instruction file and run one by one each block of code. 
 
 ### Anaconda installation
