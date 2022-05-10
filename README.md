@@ -13,8 +13,8 @@ Anaconda is an open-source distribution of the Python and R programming language
 <br />
 <img src="/install_anaconda.png" alt="Install Anaconda" height="300"/>
 
-### JupyterLab installation
-<img src="/install_jupyterlab.png" alt="Install JupyterLab" height="300"/>
+### Jupyter Notebook installation
+<img src="/launch_jupyter.png" alt="Install JupyterLab" height="300"/>
 
 ### Run the project
 
