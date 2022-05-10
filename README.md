@@ -2,7 +2,7 @@
 This is a protocol to sort a data financial excel. It is done with Python, in Anaconda, using the Pandas library. 
 
 ## Set up the environment
-1. You have to install Anaconda environment.
+1. You have to install Anaconda environment. You can keep the default choices.
 2. Then, you have to install Jupyter Lab.
 3. When it's done, just go to my instruction file and run one by one each block of code. 
 
@@ -20,7 +20,7 @@ Anaconda is an open-source distribution of the Python and R programming language
 
 #### How to run a project
 
-Download QR_BDD_compta from Github
+Download QR_BDD_compta.ipynb from Github
 <br />
 <img src="/download_file.png" alt="Download file" height="300"/>
 <br />
@@ -34,13 +34,6 @@ Run the code
 <br />
 <img src="/run_code.png" alt="Run code" height="300"/>
 
-### Create your new excel file
-Once "Sales record successfully exported into Excel File" open the excel you've just created and make it clearer 
-<br />
-<br />
-<img src="/delete_column.png" alt="Delete the first column" height="300"/>
-<br />
-<br />
 
 ### Links that might help you
 Pandas Installation instructions : https://pandas.pydata.org/getting_started.html <br />
